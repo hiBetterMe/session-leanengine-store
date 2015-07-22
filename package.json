@@ -1,0 +1,17 @@
+{
+  "name": "session-leanengine-store",
+  "version": "0.1.0",
+  "description": "Session leanengine store is a provision for storing session data in the leancloud",
+  "keywords": [
+    "leanengine",
+    "session"
+  ],
+  "author": "sliuqin<sliuqin@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hiBetterMe/session-leanengine-store.git"
+  },
+  "dependencies": {
+  }
+}
