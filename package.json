@@ -1,6 +1,6 @@
 {
   "name": "session-leanengine-store",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Session leanengine store is a provision for storing session data in the leancloud",
   "keywords": [
     "leanengine",
